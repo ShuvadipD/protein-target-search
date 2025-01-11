@@ -4,7 +4,7 @@
 
 variable t equal step
 units lj                 # use lennard-jones (i.e. dimensionless) units
-atom_style angle         # atoms with bonds and angles
+atom_style bond        # atoms with bonds and angles
 boundary s s s           # all boundaries are shrink wrap
 
 ###############################################
