@@ -1,4 +1,4 @@
-# Protein Target Search on Folded Chromatin
+# Compaction of chromatin domains regulates target search times of proteins
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Platform](https://img.shields.io/badge/platform-Linux%2FUnix-blue)
