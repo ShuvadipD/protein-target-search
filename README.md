@@ -1,6 +1,6 @@
 # Protein Target Search on Folded Chromatin
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Platform](https://img.shields.io/badge/platform-Linux%2FUnix-blue)
 ![Language](https://img.shields.io/badge/language-C%20%7C%20LAMMPS-orange)
 
@@ -17,7 +17,7 @@ This repository contains simulation codes and plot data for studying how protein
 - [LAMMPS](https://www.lammps.org/)
 - C compiler (e.g., `gcc`)
 
-## Reference
+## 📚 Reference
 
 If you use this code in your research, please cite the following:
 
