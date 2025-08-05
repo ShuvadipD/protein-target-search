@@ -8,9 +8,9 @@ This repository contains simulation codes and plot data for studying how protein
 
 ## Repository Structure
 
-- **`Plot_data/`** – Source data files for key figures.  
-- **`polymer_simulation/`** – LAMMPS input scripts for polymer simulations.  
-- **`code_for_mfpt/`** – C code to calculate mean first-passage time (MFPT) on a network.
+- **`Plot_data`** – Source data files for key figures.  
+- **`polymer_simulation`** – LAMMPS input scripts for polymer simulations.  
+- **`code_for_mfpt`** – C code to calculate mean first-passage time (MFPT) on a network.
 
 ## Requirements
 
